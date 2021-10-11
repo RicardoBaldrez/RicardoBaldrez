@@ -10,7 +10,7 @@
 I'm a future Full Stack developer, currently focused on Front-end 🚀. <br>
 I love modifying and creating new things, I love discovering new technologies and immersing myself in problem solving.
 
-##
+## My Specialties:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,6 +30,7 @@ I love modifying and creating new things, I love discovering new technologies an
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 <br>
+<br>
 <div>
   <a href="https://github.com/RicardoBaldrez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RicardoBaldrez&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
@@ -37,5 +38,4 @@ I love modifying and creating new things, I love discovering new technologies an
 </div>
   
 ##
-  
 ![Snake animation](https://github.com/RicardoBaldrez/RicardoBaldrez/blob/output/github-contribution-grid-snake.svg)
