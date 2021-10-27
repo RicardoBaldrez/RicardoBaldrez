@@ -1,7 +1,7 @@
 ## Hi, I'm Ricardo Baldrez!
 <div> 
   <a href = "mailto:ricardo.baldrez@gmail.com"><img height="22" width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img height="22" width="80" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ricardo-barbosa-38b760145/" target="_blank"><img height="22" width="80" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img height="22" width="80" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
 </div>
 
