@@ -6,7 +6,7 @@
 </div>
 
 ## About me:
-I'm a future Full Stack developer, currently focused on Front-end 🚀.
+I'm a future Full Stack developer, currently focused on Front-end 🚀. <br>
 I love modifying and creating new things, I love discovering new technologies and diving into problem solving.
 
 ## My Specialties:
