@@ -10,8 +10,7 @@ I'm a future Full Stack developer, currently focused on Front-end 🚀. <br>
 I love modifying and creating new things, I love discovering new technologies and diving into problem solving.
 
 ## My Specialties:
-
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <strong>Hypertext Markup Language:</strong><img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"><strong>Semantic</strong>
   <br><br>
   <strong>Cascading Style Sheet:</strong> <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> {
