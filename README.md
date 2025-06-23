@@ -2,7 +2,7 @@
 
 > “From pixels to full systems — one line of code at a time.” 🚀
 
-🚀 **Aspiring Full Stack Developer | Front-end Enthusiast**
+🚀 ** Innovative Front-End Developer | Driven to Build Cutting-Edge, Immersive Web Experiences**
 
 I'm passionate about creating beautiful, responsive, and dynamic user interfaces.  
 Currently focused on Front-end development — diving deep into:
