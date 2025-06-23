@@ -7,7 +7,7 @@
 I'm passionate about creating beautiful, responsive, and dynamic user interfaces.  
 Currently focused on Front-end development — diving deep into:
 
-- ⚛️ **React**
+- ⚛️ **React & React Native** 
 - 💻 **JavaScript & TypeScript**
 - 🌐 **HTML & CSS**
 - 🎨 **UI/UX & Design Systems**
