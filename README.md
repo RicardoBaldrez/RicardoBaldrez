@@ -24,12 +24,6 @@ At the same time, I'm exploring the Back-end world because I believe that unders
 
 ---
 
-### 🌱 On my way to becoming a Full Stack Developer
-
-Always building, always improving. Let's code something awesome together! ✨
-
----
-
 ### 📫 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-barbosa-38b760145)
